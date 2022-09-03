@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712034051940",
+    "project_id": "photomap-29990",
+    "storage_bucket": "photomap-29990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712034051940:android:d750f5dfbdd28756037c71",
+        "android_client_info": {
+          "package_name": "com.photomap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712034051940-lcrlga133ifsn4vuqi60r4jsuvthgs0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.photomap",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "712034051940-od57ggdh9frqpfkfpuaueeql4asq9nsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YQYmC5O9DyFV_tzvvtSFaA_UK9asF_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712034051940-od57ggdh9frqpfkfpuaueeql4asq9nsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

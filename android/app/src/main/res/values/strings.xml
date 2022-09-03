@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoMap</string>
+    <string name="facebook_app_id">1466766613760864</string>
+    <string name="fb_login_protocol_scheme">fb1466766613760864</string>
+<string name="facebook_client_token">6712c46c596ce023aede52a119afbc2c</string>
+</resources>
+

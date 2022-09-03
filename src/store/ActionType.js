@@ -1,0 +1,4 @@
+export const SET_SELECTED_TAB = "SET_SELECTED_TAB";
+export const SEARCH_LOCATION = "SEARCH_LOCATION";
+export const SHOW_BOTTOM_SHEET = "SHOW_BOTTOM_SHEET";
+export const USER_TYPE = "USER_TYPE";
